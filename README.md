@@ -1,4 +1,4 @@
-# Movierecommendationsystem
+# Movie recommendation system
 
 
 A simple content-based movie recommender built using the TMDb 5000 Movies Dataset, vectorization, and Streamlit.
