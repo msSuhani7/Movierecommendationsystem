@@ -3,7 +3,7 @@
 
 A simple content-based movie recommender built using the TMDb 5000 Movies Dataset, vectorization, and Streamlit.
 
-#🔍 Features
+# Features
 Recommends similar movies based on selected title
 Uses NLP (CountVectorizer) for similarity
 Interactive UI with Streamlit
